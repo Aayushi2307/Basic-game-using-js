@@ -18,7 +18,7 @@
 ## About The Project
 
 <a href="pig_game.png">
-    <img src="pig_game.png" width="600" height="400">
+    <img src="pig_game.png" width="700" height="350">
 </a>
 
 <hr>
