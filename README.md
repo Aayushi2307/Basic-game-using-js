@@ -17,8 +17,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="pig_game.jpg">
-    <img src="pig_game.jpg" width="275" height="600">
+<a href="pig_game.png">
+    <img src="pig_game.png" width="600" height="400">
 </a>
 
 <hr>
